@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Viswanadha Sai N</h1>
-<h3 align="center">Advancing in Cybersecurity, exploring Quantum Computing, and experimenting with AI & AI+Cyber Security projects</h3>
+<h3 align="center">Advancing in Cybersecurity, exploring Quantum Computing and experimenting with AI & AI+Cyber Security projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=createunique&label=Profile%20views&color=0e75b6&style=flat" alt="createunique" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile%20views-689-0e75b6?style=flat" alt="Profile views: 689" />
+</p>
 
 - 🔭 I’m currently working on [SkillSync AI](https://github.com/createunique/SkillSync-AI)
 
@@ -9,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Quantum Computing**
 
-- 👨‍💻 All of my projects are available at [viswnadhasai.com](viswnadhasai.com)
+- 👨‍💻 All of my projects are available at [viswnadhasai.com](http://viswanadhasai.com/)
 
 - 💬 Ask me about **Ask me about Full Stack innovations, AI-driven cybersecurity and cloud-based solutions.**
 
